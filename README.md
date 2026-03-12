@@ -1,3 +1,7 @@
+# ARCHIVED: replaced by https://github.com/stepful/fivetran-connectors
+
+---
+
 # Socratease Fivetran Connector
 
 ## Docs
